@@ -20,7 +20,7 @@
 
 3. **Configure environment variables**<br>
    make a .env file<br>
-   NEXT_PUBLIC_CLERK_FRONTEND_API=<your_frontend_api><br>
+   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=<your_publishable_api_key><br>
    CLERK_API_KEY=<your_api_key>
 
 4. **Run the app**<br>
